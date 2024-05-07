@@ -2,10 +2,10 @@
 This C++ program simulates a basic minefield game, similar to the classic Minesweeper. It employs simple console commands for user interaction. The game uses fixed field dimensions, with the current version set at 5 columns and 8 rows. As players progress in programming, they could update the game to accept dynamic field sizes.
 
 ## Features
-Fixed Minefield Dimensions: 5x8 grid to simplify the understanding and debugging process. 
-Modular Code Structure: Functions are used to manage game logic, improving readability and maintainability.
-Game States: Game progress is tracked with flags and mine counts, changing states based on user actions.
-Seed-based Randomization: Ensures reproducibility of mine placement for testing by using a configurable seed.
+- Fixed Minefield Dimensions: 5x8 grid to simplify the understanding and debugging process. 
+- Modular Code Structure: Functions are used to manage game logic, improving readability and maintainability.
+- Game States: Game progress is tracked with flags and mine counts, changing states based on user actions.
+- Seed-based Randomization: Ensures reproducibility of mine placement for testing by using a configurable seed.
 
 ## Game States
 Cells in the game can be in one of several states:
