@@ -1,4 +1,4 @@
-#Minefield Game
+# Minefield Game
 This C++ program simulates a basic minefield game, similar to the classic Minesweeper. 
 It employs simple console commands for user interaction. 
 The game uses fixed field dimensions, with the current version set at 5 columns and 8 rows. 
