@@ -15,10 +15,9 @@ Cells in the game can be in one of several states:
 4. Incorrectly Flagged Mine- Cell does not contain a mine but has been flagged.
 
 ## Compilation/Execution
-Ensure that your system has a C++ compiler installed. Compile the code using the following command:
-g++ main.cpp -o minefield
-Run the program:
-./minefield
+1. Ensure that your system has a C++ compiler installed.
+2. Compile the code using the following command: g++ main.cpp -o minefield
+3. Run the program: ./minefield
 
 ## Gameplay
 1. Start the game: The game initializes with a random placement of mines based on the seed.
@@ -34,5 +33,4 @@ Run the program:
 - Advanced Features: Add features like saving the game state or multi-level difficulty.
 
 ## Contributing
-Contributions to the project are welcome. Please ensure to follow the existing coding style and add comments where necessary. 
-For major changes, please open an issue first to discuss what you would like to change.
+Contributions to the project are welcome. Please ensure to follow the existing coding style and add comments where necessary. For major changes, please open an issue first to discuss what you would like to change.
