@@ -16,8 +16,8 @@ Cells in the game can be in one of several states:
 
 ## Compilation/Execution
 1. Ensure that your system has a C++ compiler installed.
-2. Compile the code using the following command: g++ main.cpp -o minefield
-3. Run the program: ./minefield
+2. Compile the code using the following command: "g++ main.cpp -o minefield"
+3. Run the program: "./minefield"
 
 ## Gameplay
 1. Start the game: The game initializes with a random placement of mines based on the seed.
